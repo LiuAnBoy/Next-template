@@ -1,18 +1,18 @@
 # Project Template Quick Download Commands
 
-## Next.js + TypeScript Template (`next-ts`)
+## TypeScript Template
 
 ```
 curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -xz --strip=1 next-template-master/next-ts
 ```
 
-## Next.js + Ant Design + TypeScript Template (`next-antd-ts`)
+## Ant Design + TypeScript Template
 
 ```
 curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -xz --strip=1 next-template-master/next-antd-ts
 ```
 
-## Next.js + MUI + TypeScript Template (`next-mui-ts`) 
+## MUI + TypeScript Template
 
 ```
 curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -xz --strip=1 next-template-master/next-mui-ts
