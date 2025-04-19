@@ -22,7 +22,7 @@ curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -
 
 ## Starting the Development Server
 
-After downloading the template into your project folder and installing dependencies (`npm install` or `yarn install` or `pnpm install`), you can start the development server using the following command:
+After downloading the template into your project folder and installing dependencies (`pnpm install`), you can start the development server using the following command:
 
 ```
 pnpm dev
